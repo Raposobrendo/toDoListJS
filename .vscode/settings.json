@@ -1,0 +1,25 @@
+{
+  "editor.fontSize": 16,
+  "editor.lineHeight": 1.4,
+  "editor.tabSize": 2,
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.colorTheme": "Origamid Next",
+  "workbench.iconTheme": "origamid-next-icons",
+  "editor.wordWrap": "on",
+  "editor.minimap.renderCharacters": false,
+  "breadcrumbs.filePath": "off",
+  "outline.icons": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.formatOnSave": true,
+  "html.format.wrapAttributes": "auto",
+  "html.format.wrapLineLength": 0,
+  "html.autoClosingTags": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "workbench.statusBar.visible": false,
+  "editor.colorDecorators": false,
+  "color-highlight.markerType": "dot-before"
+}
